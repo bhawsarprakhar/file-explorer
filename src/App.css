@@ -1,0 +1,14 @@
+.app {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  text-align: left;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.add-folder {
+  margin: 10px;
+}
